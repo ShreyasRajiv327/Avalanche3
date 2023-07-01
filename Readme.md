@@ -1,23 +1,27 @@
 # Project Title
 
-Simple overview of use/purpose.
+Custom Token
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Creating a Custom Token and running it on hardhat network
 
 ## Getting Started
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Go to gitpod
+* on the terminal Run - npx hardhat init
+* Create new javascript project
+* In the contracts create a new file and copy paste the code in Token.sol
+* In deploy.js in the new javascript project copy paste the code prent in this github repo and paste it there
+* Do the same with hardhat.config.js
 
 ### Executing program
 
 * How to run the program
 * Step-by-step bullets
 ```
-code blocks for commands
+go to terminal and run-- npx hardhat run scripts/deploy.js
 ```
 
 ## Help
@@ -31,8 +35,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. Shreyas R
+ex. shreyadrajiv327@gmail.com
 
 
 ## License
