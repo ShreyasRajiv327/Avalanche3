@@ -19,17 +19,12 @@ Creating a Custom Token and running it on hardhat network
 ### Executing program
 
 * How to run the program
-* Step-by-step bullets
+* Go to Terminal
 ```
-go to terminal and run-- npx hardhat run scripts/deploy.js
+ run-- npx hardhat run scripts/deploy.js
 ```
 
-## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
