@@ -31,7 +31,7 @@ Creating a Custom Token and running it on hardhat network
 Contributors names and contact info
 
 ex. Shreyas R
-ex. shreyadrajiv327@gmail.com
+ex. shreyasrajiv327@gmail.com
 
 
 ## License
